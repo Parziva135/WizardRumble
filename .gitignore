@@ -1,0 +1,12 @@
+.tools/
+.research/
+build/
+dist/
+*.user
+*.suo
+*.pdb
+*.obj
+*.ilk
+*.exp
+*.lib
+.vs/
