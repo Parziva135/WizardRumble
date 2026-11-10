@@ -1,0 +1,28 @@
+Wizard Rumble
+1|Host: enable spells|wr_enabled
+3|Host: cooldown seconds|wr_cooldown|1|60
+3|Host: spell range|wr_range|500|10000
+1|Show spell HUD|wr_hud
+3|Spell slot scale|wr_hud_scale|0.7|1.6
+1|Animated spell effects|wr_vfx
+0|Reload soft glow textures|wr_glow_reload
+1|Spell sound effects|wr_sfx
+3|Spell sound volume|wr_sfx_volume|0|1
+0|Test Avada voice locally|wr_audio_test
+0|Test Leviosa voice locally|wr_audio_test leviosa
+0|Test Leviosa floating effect locally|wr_audio_test leviosa_float
+0|Test Eat Slugs voice locally|wr_audio_test eat_slugs
+0|Test Stupefy sound locally|wr_audio_test stupefy
+0|Test Petrificus sound locally|wr_audio_test petrificus_totalus
+0|Test Protego sound locally|wr_audio_test protego
+0|Test Patronum first 3 seconds locally|wr_audio_test expecto_patronum
+0|Test full Bombarda recording locally|wr_audio_test bombarda_maxima
+0|Test Obliviate recording locally|wr_audio_test obliviate
+0|Reload spell audio files|wr_audio_reload
+0|Cast held spell|wr_cast
+0|Print diagnostics to console|wr_status
+1|Log timed hold poses|wr_debug
+0|Test Leviosa on a LAN bot|wr_bot_test leviosa
+0|Test Petrificus on a LAN bot|wr_bot_test petrificus_totalus
+0|Grant Patronum in Freeplay|wr_practice expecto_patronum
+0|Test Eat Slugs camera in Freeplay|wr_selftest eat_slugs
